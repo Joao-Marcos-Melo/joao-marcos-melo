@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello!
 
-<!--
-**Joao-Marcos-Melo/joao-marcos-melo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm João
 
-Here are some ideas to get you started:
+Currently in my final year of Analysis and Systems Development, studying Cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building games as a hobby and creating small, random projects.
+
+Main tech stack: Python, C, C#. 
+
+**Fun Facts:**
+
+- Practicing calisthenics
+- Enjoy drawing
+- Working on personal coding projects from scratch
